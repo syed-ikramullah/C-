@@ -3,8 +3,7 @@
 ---
 
 # Syed Ikramullah
-## these are my practice projects
-###
+ these are my practice projects
 
 
 ---
